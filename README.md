@@ -60,19 +60,12 @@ This Power BI project analyzes user behavior, engagement, and revenue from a gam
 
 ## 📸 Dashboard Preview
 
-![screenshot](Assets/screenshots.png)
 
 ---
 
 ## 🙋‍♂️ Author
 
-**[Your Name]**  
-*Data Analyst | Power BI Developer*  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio Website](https://yourportfolio.com)
-
+**Ridumjeet Singh**  
+*Data Analyst*  
+[LinkedIn](https://www.linkedin.com/in/ridumjeet-singh-1552731a2/)
 ---
-
-## 📬 Contact
-
-For feedback or collaboration, feel free to connect!
-
