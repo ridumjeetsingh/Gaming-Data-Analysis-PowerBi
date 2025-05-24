@@ -1,6 +1,6 @@
 # 🎮 Gaming Analytics Dashboard — Power BI Project
 
-This Power BI dashboard analyzes user behavior, revenue, and engagement patterns from a fictional gaming platform. It provides interactive visualizations and insights to support strategic decisions in user retention, monetization, and platform optimization.
+This Power BI project analyzes user behavior, engagement, and revenue from a gaming platform. It features insights on active users, device usage, top spenders, and churn risks. With interactive visuals and strategic recommendations, the dashboard supports data-driven decisions to improve retention, optimize monetization, and enhance the user experience.
 
 ---
 
