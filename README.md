@@ -44,7 +44,7 @@ This Power BI project analyzes user behavior, engagement, and revenue from a gam
 | File | Description |
 |------|-------------|
 | `Gaming_Analytics.pbix` | Main Power BI project file (can be excluded if private) |
-| `Project_Report.pdf` | PDF export of visuals and strategic commentary |
+| `https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Project.pbix` | PDF export of visuals and strategic commentary |
 | `Assets/screenshots.png` | Preview of dashboard pages |
 
 ---
