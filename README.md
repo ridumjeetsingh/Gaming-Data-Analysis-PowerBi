@@ -60,6 +60,14 @@ This Power BI project analyzes user behavior, engagement, and revenue from a gam
 
 ## 📸 Dashboard Preview
 
+![User Overview](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Slide1.png)
+![Engaement Patterns](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Slide%202.png)
+![Monetization Performance](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Slide%203.png)
+![Churn & Rentitions Risk](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Slide%204.png)
+![Insight 1](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Insight%201.png)
+![Insight 2](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Insight%202.png)
+![Insight 3](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Insight%203.png)
+![Insight 4](https://github.com/ridumjeetsingh/Gaming-Data-Analysis-PowerBi/blob/main/Insight%204.png)
 
 ---
 
